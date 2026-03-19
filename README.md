@@ -49,3 +49,6 @@
   <!-- Basic -->
   <img src="https://skillicons.dev/icons?i=js" width="40" height="40" />
 </p>
+<p align="center">
+<img src="https://github.com/btoan2802/btoan2802/blob/output/github-contribution-grid-snake.svg" />
+</p>
