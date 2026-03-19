@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java, APIs, NRO server, and AI integration**  
 
-- 📫 How to reach me **royaldragonit2309@gmail.com**
+- 📫 How to reach me **toanhotface@gmail.com**
 
 - ⚡ Fun fact **I build my own AI and game servers 🚀**
 
