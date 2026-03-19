@@ -90,5 +90,5 @@
 <h3 align="center">💬 Dev Quote</h3>
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I'm%20not%20the%20best%2C%20but%20I%20always%20strive%20to%20be%20better%20every%20day." />
 </p>
