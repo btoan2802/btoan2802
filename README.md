@@ -1,16 +1,16 @@
 # Hi 👋, I'm Nguyễn Bảo Toàn
 
-### 🎓 IT Student | ☕ Java Developer | 🤖 AI Enthusiast
+### 🎓 IT Student | ☕ Java Backend Developer | 🤖 AI Enthusiast
 
-- 🔭 I’m currently working on **NRO private server & Btoan AI (personal projects)**  
+- 🔭 I’m currently working on **personal projects including NRO private server and Btoan AI**
 
-- 🌱 I’m currently learning **Java backend, Artificial Intelligence, and system design**  
+- 🌱 I’m currently learning **Java backend development, Artificial Intelligence, and system design**
 
-- 💬 Ask me about **Java, APIs, NRO server, and AI integration**  
+- 💬 Ask me about **Java, APIs, game server development, and AI integration**
 
 - 📫 How to reach me **toanhotface@gmail.com**
 
-- ⚡ Fun fact **I build my own AI and game servers 🚀**
+- ⚡ Fun fact **I build my own AI systems and game servers 🚀**
 
 ---
 
@@ -29,13 +29,23 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
+  <!-- Main -->
   <img src="https://skillicons.dev/icons?i=java" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=python" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" />
+
+  <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" />
+
+  <!-- Database -->
   <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" />
+
+  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" />
+
+  <!-- Basic -->
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" />
 </p>
