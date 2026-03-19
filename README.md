@@ -74,7 +74,7 @@
 <h3 align="center">🏆 Trophies</h3>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=btoan2802&theme=darkhub" />
+<img src="https://github-profile-trophy.vercel.app/?username=btoan2802&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
 </p>
 
 ---
@@ -82,7 +82,8 @@
 <h3 align="center">👀 Profile Views</h3>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=btoan2802&theme=tokyonight&v=1" /></p>
+<img src="https://komarev.com/ghpvc/?username=btoan2802&label=Profile%20views&color=00F5FF&style=flat" />
+</p>
 
 ---
 
