@@ -82,8 +82,7 @@
 <h3 align="center">👀 Profile Views</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=btoan2802&label=Profile%20views&color=00F5FF&style=flat" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=btoan2802&theme=tokyonight&v=1" /></p>
 
 ---
 
