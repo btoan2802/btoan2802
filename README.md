@@ -69,13 +69,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=btoan2802&theme=tokyonight&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
 </p>
 
----
-
-<h3 align="center">🏆 Trophies</h3>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=btoan2802&theme=algolia&no-frame=true&row=1&margin-w=10&v=2" />
-</p>
 
 ---
 
