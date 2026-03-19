@@ -74,7 +74,7 @@
 <h3 align="center">🏆 Trophies</h3>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=btoan2802&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=btoan2802&theme=darkhub" />
 </p>
 
 ---
