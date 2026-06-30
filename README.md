@@ -3,15 +3,19 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;AI+System+Builder;NRO+Server+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;ASP.NET+MVC+Developer;C%23+%26+.NET+Developer;AI+System+Builder;OOP+Enthusiast" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nguyễn Bảo Toàn</h1>
 
-<h3 align="center">🎓 IT Student | ☕ Java Backend Developer | 🤖 AI Enthusiast</h3>
+<h3 align="center">🎓 IT Student | ☕ Java & C# Backend Developer | 🤖 AI Enthusiast</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-Backend-red?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/C%23-.NET-blueviolet?style=for-the-badge&logo=csharp"/>
+<img src="https://img.shields.io/badge/ASP.NET-MVC-512BD4?style=for-the-badge&logo=dotnet"/>
+<img src="https://img.shields.io/badge/Bootstrap-Frontend-7952B3?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/OOP-Programming-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI-Builder-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NRO-Server-green?style=for-the-badge"/>
 </p>
@@ -20,11 +24,11 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **personal projects including NRO private server and Btoan AI**  
-- 🌱 I’m currently learning **Java backend development, Artificial Intelligence, and system design**  
-- 💬 Ask me about **Java, APIs, game server development, and AI integration**  
-- 📫 Contact me: **toanhotface@gmail.com**  
-- ⚡ Fun fact: **I build my own AI systems and game servers 🚀**
+- 🔭 I'm currently working on personal projects including **NRO Private Server, Btoan AI, and ASP.NET MVC applications**
+- 🌱 I'm currently learning **ASP.NET, .NET, ASP.NET MVC, Object-Oriented Programming (OOP), Bootstrap, Java Backend, and Artificial Intelligence**
+- 💬 Ask me about **Java, C#, .NET, ASP.NET MVC, REST APIs, Bootstrap, OOP, game server development, and AI integration**
+- 📫 Contact me: **toanhotface@gmail.com**
+- ⚡ Fun fact: **I enjoy building AI applications, web systems, and game servers from scratch 🚀**
 
 ---
 
@@ -41,8 +45,43 @@
 <h3 align="center">🛠 Languages and Tools</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,nodejs,mysql,redis,git,postman,js" />
+<img src="https://skillicons.dev/icons?i=java,cs,dotnet,visualstudio,html,css,bootstrap,js,python,nodejs,mysql,redis,git,github,postman" />
 </p>
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+- Java
+- C#
+- .NET
+- ASP.NET
+- ASP.NET MVC
+
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+
+### Database
+- MySQL
+- Redis
+
+### Programming Concepts
+- Object-Oriented Programming (OOP)
+- MVC Architecture
+- RESTful API
+- Backend Development
+- Web Application Development
+
+### Tools
+- Git
+- GitHub
+- Visual Studio
+- VS Code
+- Postman
 
 ---
 
@@ -68,7 +107,6 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=btoan2802&theme=tokyonight&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
 </p>
-
 
 ---
 
