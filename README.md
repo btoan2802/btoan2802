@@ -27,7 +27,7 @@
 - 🔭 I'm currently working on personal projects including **NRO Private Server, Btoan AI, and ASP.NET MVC applications**
 - 🌱 I'm currently learning **ASP.NET, .NET, ASP.NET MVC, Object-Oriented Programming (OOP), Bootstrap, Java Backend, and Artificial Intelligence**
 - 💬 Ask me about **Java, C#, .NET, ASP.NET MVC, REST APIs, Bootstrap, OOP, game server development, and AI integration**
-- 📫 Contact me: **toanhotface@gmail.com**
+- 📫 Contact me: **btoandevelop@gmail.com**
 - ⚡ Fun fact: **I enjoy building AI applications, web systems, and game servers from scratch 🚀**
 
 ---
