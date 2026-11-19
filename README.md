@@ -3,32 +3,33 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;ASP.NET+MVC+Developer;C%23+%26+.NET+Developer;AI+System+Builder;OOP+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Fresher+%2F+Junior+.NET+Fullstack+Developer;C%23+%26+ASP.NET+Core+Developer;Angular+%26+TypeScript+Developer;AI+Agent+%26+RAG+System+Builder;Software+Engineer+Intern+%40+FPT+IS" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nguyễn Bảo Toàn</h1>
 
-<h3 align="center">🎓 IT Student | ☕ Java & C# Backend Developer | 🤖 AI Enthusiast</h3>
+<h3 align="center">🎓 IT Student @ PTIT | 💻 .NET & Angular Fullstack Developer | 🤖 AI System Builder</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-Backend-red?style=for-the-badge&logo=java"/>
 <img src="https://img.shields.io/badge/C%23-.NET-blueviolet?style=for-the-badge&logo=csharp"/>
-<img src="https://img.shields.io/badge/ASP.NET-MVC-512BD4?style=for-the-badge&logo=dotnet"/>
-<img src="https://img.shields.io/badge/Bootstrap-Frontend-7952B3?style=for-the-badge&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/OOP-Programming-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ASP.NET-Core-512BD4?style=for-the-badge&logo=dotnet"/>
+<img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular"/>
+<img src="https://img.shields.io/badge/Java-Game_Server-red?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/RabbitMQ-Qdrant-FF6600?style=for-the-badge&logo=rabbitmq"/>
+<img src="https://img.shields.io/badge/Docker-Sandboxing-2496ED?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/AI-Builder-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NRO-Server-green?style=for-the-badge"/>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on personal projects including **NRO Private Server, Btoan AI, and ASP.NET MVC applications**
-- 🌱 I'm currently learning **ASP.NET, .NET, ASP.NET MVC, Object-Oriented Programming (OOP), Bootstrap, Java Backend, and Artificial Intelligence**
-- 💬 Ask me about **Java, C#, .NET, ASP.NET MVC, REST APIs, Bootstrap, OOP, game server development, and AI integration**
-- 📫 Contact me: **btoandevelop@gmail.com**
-- ⚡ Fun fact: **I enjoy building AI applications, web systems, and game servers from scratch 🚀**
+- 🔭 I'm currently building and maintaining personal projects including **[Btoan AI Studio](https://ai.btoan.com)** (featured on **VnExpress Science Innovation**), **E-Commerce Fullstack (ASP.NET Core & Angular)**, and **MMORPG Game Server Systems**
+- 💼 Completed a **6-month Software Developer Internship rated "Excellent" at FPT Information System (FPT IS)**[cite: 29]
+- 🌱 I'm focusing on **C#, .NET, ASP.NET Core Web API, Entity Framework Core, Angular, Distributed Workflows (RabbitMQ, SignalR), Vector Search (Qdrant), and Docker Sandboxing**[cite: 28, 29]
+- 💬 Ask me about **.NET Fullstack Development, RESTful APIs, JWT/RBAC, Angular SPA, Multi-threaded Game Servers, and AI Agent Integration**[cite: 29]
+- 📫 Contact me: **BtoanDevelop@gmail.com** | Portfolio: **[ai.btoan.com](https://ai.btoan.com)**[cite: 29]
+- ⚡ Fun fact: **Started coding in 2022 — I enjoy building AI platforms, web systems, and game servers from scratch 🚀**[cite: 29]
 
 ---
 
@@ -45,43 +46,28 @@
 <h3 align="center">🛠 Languages and Tools</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cs,dotnet,visualstudio,html,css,bootstrap,js,python,nodejs,mysql,redis,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,java,php,mysql,docker,rabbitmq,aws,git,github,visualstudio,vscode,postman" />
 </p>
 
 ---
 
 ## 💻 Tech Stack
 
-### Backend
-- Java
-- C#
-- .NET
-- ASP.NET
-- ASP.NET MVC
+### Core Stack
+- C#, .NET, ASP.NET Core Web API, ASP.NET MVC, Entity Framework Core (Code-First)[cite: 29]
+- Angular, TypeScript, RxJS, JavaScript (ES6+), HTML5, CSS3, Bootstrap[cite: 29]
+- Microsoft SQL Server, MySQL[cite: 29]
+- RESTful API, JWT Bearer, Role-Based Access Control (RBAC)
 
-### Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-
-### Database
-- MySQL
-- Redis
-
-### Programming Concepts
-- Object-Oriented Programming (OOP)
-- MVC Architecture
-- RESTful API
-- Backend Development
-- Web Application Development
+### Architecture, DevOps & Familiar Technologies
+- SignalR, RabbitMQ (MassTransit), Qdrant Vector DB[cite: 28]
+- Docker (Docker Engine API, cgroups Sandboxing), AWS S3
+- Google Gemini API (RAG, Native Function Calling), TensorFlow.js (face-api.js)[cite: 29]
+- Java (Multi-threading, Socket NIO, HikariCP), PHP (MVC)[cite: 29]
+- Clean / Layered Architecture, OOP, DTO Pattern[cite: 29]
 
 ### Tools
-- Git
-- GitHub
-- Visual Studio
-- VS Code
-- Postman
+- Git, GitHub, Visual Studio, VS Code, Postman, Swagger / OpenAPI[cite: 29]
 
 ---
 
