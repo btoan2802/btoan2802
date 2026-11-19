@@ -15,19 +15,19 @@
 <img src="https://img.shields.io/badge/ASP.NET-Core-512BD4?style=for-the-badge&logo=dotnet"/>
 <img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular"/>
 <img src="https://img.shields.io/badge/Java-Game_Server-red?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/SQL_Server-MySQL-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
 <img src="https://img.shields.io/badge/RabbitMQ-Qdrant-FF6600?style=for-the-badge&logo=rabbitmq"/>
 <img src="https://img.shields.io/badge/Docker-Sandboxing-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/AI-Builder-blue?style=for-the-badge"/>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I'm currently building and maintaining personal projects including **[Btoan AI Studio](https://ai.btoan.com)** (featured on **VnExpress Science Innovation**), **E-Commerce Fullstack (ASP.NET Core & Angular)**, and **MMORPG Game Server Systems**
-- 💼 Completed a **6-month Software Developer Internship rated "Excellent" at FPT Information System (FPT IS)**[cite: 29]
+- 🔭 I'm currently building and maintaining personal projects including **[Btoan AI Studio](https://ai.btoan.com)** (featured on **VnExpress Science Innovation**), **E-Commerce Fullstack (ASP.NET Core & Angular)**, and **MMORPG Game Server Systems**[cite: 29]
+- 💼 Completed a **6-month Software Developer Internship rated "Excellent" at FPT Information System (FPT IS)**
 - 🌱 I'm focusing on **C#, .NET, ASP.NET Core Web API, Entity Framework Core, Angular, Distributed Workflows (RabbitMQ, SignalR), Vector Search (Qdrant), and Docker Sandboxing**[cite: 28, 29]
-- 💬 Ask me about **.NET Fullstack Development, RESTful APIs, JWT/RBAC, Angular SPA, Multi-threaded Game Servers, and AI Agent Integration**[cite: 29]
+- 💬 Ask me about **.NET Fullstack Development, RESTful APIs, JWT/RBAC, Angular SPA, SQL Server/MySQL, Multi-threaded Game Servers, and AI Agent Integration**[cite: 29]
 - 📫 Contact me: **BtoanDevelop@gmail.com** | Portfolio: **[ai.btoan.com](https://ai.btoan.com)**[cite: 29]
 - ⚡ Fun fact: **Started coding in 2022 — I enjoy building AI platforms, web systems, and game servers from scratch 🚀**[cite: 29]
 
@@ -46,7 +46,7 @@
 <h3 align="center">🛠 Languages and Tools</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,java,php,mysql,docker,rabbitmq,aws,git,github,visualstudio,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,java,php,python,nodejs,mysql,redis,docker,rabbitmq,aws,git,github,visualstudio,vscode,postman" />
 </p>
 
 ---
@@ -56,14 +56,14 @@
 ### Core Stack
 - C#, .NET, ASP.NET Core Web API, ASP.NET MVC, Entity Framework Core (Code-First)[cite: 29]
 - Angular, TypeScript, RxJS, JavaScript (ES6+), HTML5, CSS3, Bootstrap[cite: 29]
-- Microsoft SQL Server, MySQL[cite: 29]
+- Microsoft SQL Server, MySQL, MariaDB[cite: 29]
 - RESTful API, JWT Bearer, Role-Based Access Control (RBAC)
 
 ### Architecture, DevOps & Familiar Technologies
-- SignalR, RabbitMQ (MassTransit), Qdrant Vector DB[cite: 28]
+- SignalR, RabbitMQ (MassTransit), Qdrant Vector DB, Redis[cite: 28]
 - Docker (Docker Engine API, cgroups Sandboxing), AWS S3
 - Google Gemini API (RAG, Native Function Calling), TensorFlow.js (face-api.js)[cite: 29]
-- Java (Multi-threading, Socket NIO, HikariCP), PHP (MVC)[cite: 29]
+- Java (Multi-threading, Socket NIO, HikariCP), PHP (MVC), Python, Node.js[cite: 29, 30]
 - Clean / Layered Architecture, OOP, DTO Pattern[cite: 29]
 
 ### Tools
