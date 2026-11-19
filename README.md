@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Nguyễn Bảo Toàn</h1>
 
-<h3 align="center">🎓 IT Student @ PTIT | 💻 .NET & Angular Fullstack Developer | 🤖 AI System Builder</h3>
+<h3 align="center">🎓 IT Student | 💻 .NET & Angular Fullstack Developer | 🤖 AI System Builder</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C%23-.NET-blueviolet?style=for-the-badge&logo=csharp"/>
