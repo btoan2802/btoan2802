@@ -24,12 +24,12 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently building and maintaining personal projects including **[Btoan AI Studio](https://ai.btoan.com)** (featured on **VnExpress Science Innovation**), **E-Commerce Fullstack (ASP.NET Core & Angular)**, and **MMORPG Game Server Systems**[cite: 29]
+- 🔭 I'm currently building and maintaining personal projects including **[Btoan AI Studio](https://ai.btoan.com)** (featured on **[VnExpress Science Innovation](https://vnexpress.net/khoa-hoc-cong-nghe/cuoc-thi-sang-kien-khoa-hoc/san-pham/btoan-ai-chatbot-thong-minh-366)**), **E-Commerce Fullstack (ASP.NET Core & Angular)**, and **MMORPG Game Server Systems**
 - 💼 Completed a **6-month Software Developer Internship rated "Excellent" at FPT Information System (FPT IS)**
-- 🌱 I'm focusing on **C#, .NET, ASP.NET Core Web API, Entity Framework Core, Angular, Distributed Workflows (RabbitMQ, SignalR), Vector Search (Qdrant), and Docker Sandboxing**[cite: 28, 29]
-- 💬 Ask me about **.NET Fullstack Development, RESTful APIs, JWT/RBAC, Angular SPA, SQL Server/MySQL, Multi-threaded Game Servers, and AI Agent Integration**[cite: 29]
-- 📫 Contact me: **BtoanDevelop@gmail.com** | Portfolio: **[ai.btoan.com](https://ai.btoan.com)**[cite: 29]
-- ⚡ Fun fact: **Started coding in 2022 — I enjoy building AI platforms, web systems, and game servers from scratch 🚀**[cite: 29]
+- 🌱 I'm focusing on **C#, .NET, ASP.NET Core Web API, Entity Framework Core, Angular, Distributed Workflows (RabbitMQ, SignalR), Vector Search (Qdrant), and Docker Sandboxing**
+- 💬 Ask me about **.NET Fullstack Development, RESTful APIs, JWT/RBAC, Angular SPA, SQL Server/MySQL, Multi-threaded Game Servers, and AI Agent Integration**
+- 📫 Contact me: **BtoanDevelop@gmail.com** | Portfolio: **[ai.btoan.com](https://ai.btoan.com)**
+- ⚡ Fun fact: **Started coding in 2022 — I enjoy building AI platforms, web systems, and game servers from scratch 🚀**
 
 ---
 
@@ -54,20 +54,20 @@
 ## 💻 Tech Stack
 
 ### Core Stack
-- C#, .NET, ASP.NET Core Web API, ASP.NET MVC, Entity Framework Core (Code-First)[cite: 29]
-- Angular, TypeScript, RxJS, JavaScript (ES6+), HTML5, CSS3, Bootstrap[cite: 29]
-- Microsoft SQL Server, MySQL, MariaDB[cite: 29]
+- C#, .NET, ASP.NET Core Web API, ASP.NET MVC, Entity Framework Core (Code-First)
+- Angular, TypeScript, RxJS, JavaScript (ES6+), HTML5, CSS3, Bootstrap
+- Microsoft SQL Server, MySQL, MariaDB
 - RESTful API, JWT Bearer, Role-Based Access Control (RBAC)
 
 ### Architecture, DevOps & Familiar Technologies
-- SignalR, RabbitMQ (MassTransit), Qdrant Vector DB, Redis[cite: 28]
+- SignalR, RabbitMQ (MassTransit), Qdrant Vector DB, Redis
 - Docker (Docker Engine API, cgroups Sandboxing), AWS S3
-- Google Gemini API (RAG, Native Function Calling), TensorFlow.js (face-api.js)[cite: 29]
-- Java (Multi-threading, Socket NIO, HikariCP), PHP (MVC), Python, Node.js[cite: 29, 30]
-- Clean / Layered Architecture, OOP, DTO Pattern[cite: 29]
+- Google Gemini API (RAG, Native Function Calling), TensorFlow.js (face-api.js)
+- Java (Multi-threading, Socket NIO, HikariCP), PHP (MVC), Python, Node.js
+- Clean / Layered Architecture, OOP, DTO Pattern
 
 ### Tools
-- Git, GitHub, Visual Studio, VS Code, Postman, Swagger / OpenAPI[cite: 29]
+- Git, GitHub, Visual Studio, VS Code, Postman, Swagger / OpenAPI
 
 ---
 
